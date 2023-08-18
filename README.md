@@ -9,7 +9,7 @@ descargarlo e instalarlo desde [nodejs.org](https://nodejs.org/).
 1. Abre tu terminal y navega hasta la ubicación donde deseas clonar el repositorio.
 2. Ejecuta el siguiente comando para clonar el repositorio:
 ```
-git clone https://github.com/tu-usuario/pruebas-react.git
+git clone https://github.com/bocchiko/DPS-Simulacion-de-Tienda.git
 ```
 3. Ingresa al directorio del proyecto usando el comando:
 ```
