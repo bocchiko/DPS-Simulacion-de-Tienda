@@ -1,43 +1,36 @@
-# Getting Started with Create React App
+# DPS-Simulacion-de-Tienda: Análisis de Resultados de Guia 2 de DPS
+Este es un proyecto de muestra creado para demostrar
+cómo configurar y ejecutar una aplicación básica de React utilizando Webpack. Sigue
+los pasos a continuación para poner en marcha el proyecto en tu máquina local.
+## Requisitos Previos
+Antes de comenzar, asegúrate de tener instalado Node.js en tu sistema. Puedes
+descargarlo e instalarlo desde [nodejs.org](https://nodejs.org/).
+## Clonar el Repositorio
+1. Abre tu terminal y navega hasta la ubicación donde deseas clonar el repositorio.
+2. Ejecuta el siguiente comando para clonar el repositorio:
+```
+git clone https://github.com/tu-usuario/pruebas-react.git
+```
+3. Ingresa al directorio del proyecto usando el comando:
+```
+cd tienda
+```
+## Instalar dependencias
+1. En el directorio del proyecto, ejecuta el siguiente comando para instalar las
+dependencias necesarias:
+```
+npm install
+```
+## Configuración de Desarrollo
+1. Ahora que las dependencias están instaladas, puedes iniciar el servidor de
+desarrollo. Ejecuta el siguiente comando:
+```
+npm start
+```
+2. Abre tu navegador web y visita [http://localhost:3000](http://localhost:3000).
+Deberías ver la aplicación de prueba de React en funcionamiento.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Learn More
 
